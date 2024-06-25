@@ -24,4 +24,4 @@ SF1674 VT21 Flervariabelanalys
 
 SF1918 HT20 Sannolikhetsteori och statistik
 
-SF1693 HT21 Analytiska och numeriska metoder för partiella differentialekvationer och transformer
+SF1693 HT21 Analytiska och numeriska metoder för partiella differentialekvationer och transformer (finns även som overleaf dokument: https://www.overleaf.com/1692594755dnzvhwdbdhfd#8d1a5a)
