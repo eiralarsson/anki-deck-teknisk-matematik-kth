@@ -3,6 +3,8 @@ Anki-deck för kurserna DD1320, SF1674, SF1678, SF1681, SF1672, DD1385, SF1918, 
 
 Här finns anki-decks som jag använt under min studietid på teknisk matematik på KTH. Vissa av decksen är ofullständiga och andra täcker hela kurser och innehåller utförliga svar - jag vill särskilt rekommendera decksen för de två linjär algebra kurserna. Det kan förekomma fel på korten och vissa saker kanske inte längre är relevanta för kurserna. Du som använder mina deck är välkommen att modifiera dem och dela vidare till andra. Du är också välkommen att uppmärksamma mig på uppenbara brister. Många decks innehåller screenshots på olika saker och jag hoppas att ingenting blir korrumperat.
 
+Alla Anki deck är gjorda av mig förutom den i linjär algebra fortsättningskurs som är gjord av Simon Thor och Simon Sondén (F19). Instuderingsfrågorna till PDE-kursen SF1693 är ett samarbete mellan flertalet F20-matematiker som gick kursen under dess första omgång. Det är dock främst Edith Gärtner (F20) som bidragit till bevisen.
+
 Eira Larsson, F20
 
 # Dessa kurser är med (+ vilken omgång jag tog kurserna)
